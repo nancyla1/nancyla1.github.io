@@ -1,11 +1,17 @@
-<head>
-	<link href= "style.css"
-rel="stylesheet" type= "text/css" />
-</head>
 body {
-	background-color: green;
+	background-color: gray;
 }
 h1 {
-	color: gray;
-margin-left:20px; 
+	color: black;
+	:20px; 
 }
+
+#author{
+	width:30%;
+	height:auto;
+
+#project{
+	width: 20%
+	height:auto;
+}
+	
